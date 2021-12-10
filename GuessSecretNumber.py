@@ -27,3 +27,4 @@ while (True):
     if tookGuesses == 9 and totalGuesses == 0:
         print("Sorry you used all your chances, now you dont have any, Game Over!...")
         break
+
